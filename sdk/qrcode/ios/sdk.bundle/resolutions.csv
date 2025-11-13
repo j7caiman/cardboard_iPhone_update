@@ -31,7 +31,7 @@ iPhone10.6,iPhone X,458.0f
 iPhone11.2,iPhone Xs,458.0f
 iPhone11.4,iPhone Xs Max,456.0f
 iPhone11.6,iPhone Xs Max,456.0f
-iPhone11.8,iPhone Xr,456.0f
+iPhone11.8,iPhone Xr,326.0f
 iPhone12.1,iPhone 11,326.0f
 iPhone12.3,iPhone 11 Pro,458.0f
 iPhone12.5,iPhone 11 Pro Max,458.0f
@@ -55,4 +55,9 @@ iPhone17.3,iPhone 16,460.0f
 iPhone17.4,iPhone 16 Plus,460.0f
 iPhone17.1,iPhone 16 Pro,460.0f
 iPhone17.2,iPhone 16 Pro Max,460.0f
+iPhone17.5,iPhone 16e,460.0f
+iPhone18.4,iPhone Air,460.0f
+iPhone18.3,iPhone 17,460.0f
+iPhone18.1,iPhone 17 Pro,460.0f
+iPhone18.2,iPhone 17 Pro Max,460.0f
 iPod9.1,iPod touch (7th generation),326.0f
